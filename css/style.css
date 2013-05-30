@@ -1,0 +1,36 @@
+#button-box {
+	padding-top:50px;
+	text-align:center;
+}
+.meta-box {
+	padding-top:50px;
+	text-align:left;
+}
+
+.meta-box .lead, .meta-box .alert, #api-title{
+	text-align:center;
+}
+
+#api-box {
+	padding-top:50px;
+}
+
+#api-box .span4{
+	text-align:center;
+}
+#api-box .span4 a img{
+	text-align:left;
+}
+
+#header-box {
+	padding-top:50px;
+}
+
+#footer {
+	padding-top:100px;
+	text-align:center;
+}
+
+#sponsor-box {
+	padding-top:35px;
+}
